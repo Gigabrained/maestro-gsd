@@ -8,7 +8,7 @@
 ### PRD Queue UI
 
 - [ ] **UI-01**: PRD Queue tab in RightPanel showing items from server gsd-system/
-- [ ] **UI-02**: Folder view: inbox/ → scoped/ → running/ → completed/
+- [ ] **UI-02**: Folder view: inbox/ -> scoped/ -> running/ -> completed/
 - [ ] **UI-03**: Multi-select items with checkboxes
 - [ ] **UI-04**: Status badges per item (pending/scoping/scoped/running/done)
 - [ ] **UI-05**: "Scope Selected" button triggers GSD planning
@@ -48,7 +48,7 @@
 
 ### Telegram Integration (Server-side)
 
-- [ ] **TG-01**: "📋 Queue" button shows pending items inline
+- [ ] **TG-01**: "Queue" button shows pending items inline
 - [ ] **TG-02**: Multi-select via inline keyboard
 - [ ] **TG-03**: "Scope Selected" triggers server-side scoping
 - [ ] **TG-04**: "Run All" triggers maestro-cli from server
@@ -84,43 +84,43 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| UI-01 | Phase 1 | Pending |
-| UI-02 | Phase 1 | Pending |
-| UI-03 | Phase 1 | Pending |
-| UI-04 | Phase 1 | Pending |
-| UI-05 | Phase 2 | Pending |
-| UI-06 | Phase 3 | Pending |
-| UI-07 | Phase 1 | Pending |
-| SCOPE-01 | Phase 2 | Pending |
-| SCOPE-02 | Phase 2 | Pending |
-| SCOPE-03 | Phase 2 | Pending |
-| SCOPE-04 | Phase 2 | Pending |
-| SCOPE-05 | Phase 2 | Pending |
-| EXEC-01 | Phase 3 | Pending |
-| EXEC-02 | Phase 3 | Pending |
-| EXEC-03 | Phase 3 | Pending |
-| EXEC-04 | Phase 3 | Pending |
-| EXEC-05 | Phase 3 | Pending |
 | SSH-01 | Phase 1 | Pending |
 | SSH-02 | Phase 1 | Pending |
-| SSH-03 | Phase 4 | Pending |
 | SSH-04 | Phase 1 | Pending |
-| IPC-01 | Phase 1 | Pending |
-| IPC-02 | Phase 1 | Pending |
-| IPC-03 | Phase 2 | Pending |
-| IPC-04 | Phase 2 | Pending |
-| IPC-05 | Phase 4 | Pending |
-| TG-01 | Phase 5 | Pending |
-| TG-02 | Phase 5 | Pending |
-| TG-03 | Phase 5 | Pending |
-| TG-04 | Phase 5 | Pending |
-| TG-05 | Phase 5 | Pending |
+| IPC-01 | Phase 2 | Pending |
+| IPC-02 | Phase 2 | Pending |
+| UI-01 | Phase 3 | Pending |
+| UI-02 | Phase 3 | Pending |
+| UI-03 | Phase 4 | Pending |
+| UI-04 | Phase 4 | Pending |
+| UI-07 | Phase 4 | Pending |
+| SCOPE-01 | Phase 5 | Pending |
+| SCOPE-02 | Phase 5 | Pending |
+| SCOPE-03 | Phase 5 | Pending |
+| SCOPE-04 | Phase 5 | Pending |
+| UI-05 | Phase 6 | Pending |
+| SCOPE-05 | Phase 6 | Pending |
+| IPC-03 | Phase 6 | Pending |
+| IPC-04 | Phase 6 | Pending |
+| EXEC-01 | Phase 7 | Pending |
+| EXEC-02 | Phase 7 | Pending |
+| EXEC-03 | Phase 7 | Pending |
+| EXEC-04 | Phase 7 | Pending |
+| UI-06 | Phase 8 | Pending |
+| EXEC-05 | Phase 8 | Pending |
+| SSH-03 | Phase 9 | Pending |
+| IPC-05 | Phase 9 | Pending |
+| TG-01 | Phase 10 | Pending |
+| TG-02 | Phase 10 | Pending |
+| TG-03 | Phase 10 | Pending |
+| TG-04 | Phase 10 | Pending |
+| TG-05 | Phase 10 | Pending |
 
 **Coverage:**
 - v1 requirements: 27 total
 - Mapped to phases: 27
-- Unmapped: 0 ✓
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-02-01*
-*Last updated: 2026-02-01 after initial definition*
+*Last updated: 2026-02-01 after roadmap creation*
